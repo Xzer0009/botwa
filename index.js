@@ -14,21 +14,21 @@ const speed = require('performance-now');
 
 const apivhtear = 'apikey';
 const apibarbar = 'apikey';
-const tobzkey = 'apikey';
-const BotName = 'Lexa';
+const tobzkey = 'BotWeA';
+const BotName = 'Xzer0';
 const wa = 'https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst';
 const eror = 'Info fitur Error';
-const ow = 'Mrf.zvx';
-const nomorowner = '082223014661';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const instagram = 'http://www.instagram.com/mrf.zvx';
+const ow = 'Fakhri Awail';
+const nomorowner = '6283898935905';
+const gopay = '6283898935905';
+const pulsa = '6281319868981';
+
+const Facebook = 'https://www.facebook.com/Xzer01';
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mrf.zvx\n' // Nama kamu
-  + 'ORG:Lexa;\n' // Nama bot
+  + 'FN: Fakhri Awail\n' // Nama kamu
+  + 'ORG:Xzer0;\n' // Nama bot
   + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
   + 'END:VCARD'
 //
